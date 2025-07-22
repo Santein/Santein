@@ -1,7 +1,7 @@
 ## Yo! 🤙
 
 # 💫 About Me:
-Hi, I’m Santein — a nostalgia tech enthusiast with a deep love for retro gaming!<br>I'm currently building my own arcade cabinet, blending old-school charm with modern creativity.<br>I’m passionate about creative coding, machine learning, and AI, and I love crafting visuals that bring ideas to life. <br>Whether it's designing pixel-perfect interfaces, exploring generative art, or experimenting with interactive tech, I’m always chasing that spark between code and creativity.<br>I also enjoy sharing knowledge with others, whether it’s through tutorials, collaborative projects, or helping fellow devs dive into the worlds of retro tech and modern innovation.
+Hi, I’m Santein — a nostalgia tech enthusiast with a deep love for retro gaming!<br>I'm currently building my own arcade cabinet, blending old-school charm with modern creativity.<br>I’m passionate about creative coding, machine learning, and AI, and I love crafting visuals!. <br>Whether it's designing pixel-perfect interfaces, exploring generative art, or experimenting with interactive tech, I’m always chasing that spark between code and creativity.<br>I also enjoy sharing knowledge with others, whether it’s through tutorials, collaborative projects, or helping fellow devs dive into the worlds of retro tech and modern innovation.
 
 
 ## 🌐 Socials:
