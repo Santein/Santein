@@ -62,6 +62,20 @@ you don't hold.
 
 ---
 
+# 🕹 Toys
+
+Smaller things, same deal — open one in the browser, mess with it, close it.
+
+| | |
+|---|---|
+| **[Game Boy Camera Filter →](https://santein.github.io/sameboycamera/)** | Drop in any photo and get it back in four shades of Game Boy. Pixelation, contrast threshold and dithering are all yours to push, and you can load a custom `.hex` palette — the same format [Lospec](https://lospec.com/palette-list/paleale) exports, so you can feed it your own. |
+| **[Kirby Krackle Generator →](https://santein.github.io/krackler/)** | Jack Kirby's comic-book energy dots, generated. Circles, starbursts or mixed, click the canvas to place them yourself, then download. The button says *Invoke Jack Kirby!* and I stand by that. |
+| **[…and in 3D →](https://santein.github.io/krackler3D/)** | The same cosmic energy field, but you can orbit around it — and export the whole thing as a **`.glb`** to take into Blender. |
+| **[GLITCHIFY →](https://santein.github.io/Glitchify/)** | An image distortion lab: RGB split, scanlines, VHS, block glitch, wavy. Presets for VHS Tape, Cyberpunk, Retrowave and Synthwave if you'd rather not fiddle. |
+| **[Circuit Bent Visuals →](https://santein.github.io/glitex/)** | Type something, then bend it — glitch, trails, colour, and control panels you drag wherever you want them. |
+
+---
+
 # 💻 Tech Stack
 
 **Languages**<br>
