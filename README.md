@@ -20,14 +20,9 @@ palettes on [Lospec](https://lospec.com/palette-list/paleale). Off the web I mos
 on Apple platforms — Swift, SwiftUI, SpriteKit, Metal — building camera apps, generative
 visual tools and small local-AI experiments.
 
-The other half of what I do is **teaching**. I mentor people through open-ended projects,
-run workshops, and write the material that goes with them: briefs, guidelines, feedback,
-the lot. I think a lot about what AI is actually doing to learning — especially about
-telling a polished output apart from someone who genuinely understood the thing.
-
 What ties it all together isn't a language or a framework. It's connecting code with
-design, games, education and culture — retro hardware, Japanese game-design history,
-cinema, music — and turning that into something you can open and use.
+design, games and culture — retro hardware, Japanese game-design history, cinema,
+music — and turning that into something you can open and use.
 
 ---
 
