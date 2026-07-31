@@ -60,6 +60,20 @@ you don't hold.
 
 [![The Basic Land Game](https://raw.githubusercontent.com/Santein/The-Basic-Land-Game/main/docs/board.jpg)](https://santein.github.io/The-Basic-Land-Game/)
 
+### 📺 [Night Index: The Quiet Forecast →](https://santein.github.io/night-index/)
+
+An interactive teletext horror story played through a vintage television in a motel
+room. At 02:13, Bellwether's local broadcast begins printing the name of Mara Venn, a
+woman the town has erased from its memory.
+
+Tune through numbered pages, follow clues hidden in weather reports, police carbon
+copies and an impossible mirror feed, then decide what Bellwether will remember at
+dawn. Choices leave marks on later broadcasts and lead to four different endings.
+
+*Three.js · Web Audio API · branching interactive fiction · 15–25 minutes*
+
+[![Night Index: The Quiet Forecast](https://raw.githubusercontent.com/Santein/night-index/main/public/og.png)](https://santein.github.io/night-index/)
+
 ---
 
 # 🕹 Toys
