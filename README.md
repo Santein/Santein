@@ -28,7 +28,7 @@ music — and turning that into something you can open and use.
 
 # 🎮 Play My Games
 
-Both run straight in the browser, on desktop, phone and gamepad. No install, no sign-up.
+All four run straight in the browser, on desktop, phone and gamepad. No install, no sign-up.
 
 ### 🌋 [VESUVIO 88 →](https://santein.github.io/Vesuvio-88/)
 
@@ -59,6 +59,25 @@ you don't hold.
 *Three.js · Supabase Edge Functions · authoritative server · shareable four-letter game codes*
 
 [![The Basic Land Game](https://raw.githubusercontent.com/Santein/The-Basic-Land-Game/main/docs/board.jpg)](https://santein.github.io/The-Basic-Land-Game/)
+
+### ⚽ [Santino Santini's Kick Off →](https://santein.github.io/Santino-Santinis-Kick-Off/)
+
+A top-down pixel-art football game in the spirit of Dino Dini's **Kick Off** (1989),
+where the ball is never glued to your feet. You knock it ahead of you and chase it, and
+the whole game lives in that gap: a first touch you have to judge, a turn you have to
+plan, and a shot you have to be facing before you hit it. Sprint, switch to the man
+nearest the ball, and pick between the original loose touch and a modern close-control
+setting that keeps it closer.
+
+Five all-time squads — Serie A, the Premier League, La Liga, the Bundesliga, and the
+best of everywhere else — with fifty-five players who each appear exactly once, filed
+under the league where they actually did it. Send a friend a four-letter code and you
+play each other browser to browser: the match runs peer-to-peer rather than through a
+server, so the pace is set by the line between the two of you and not by a datacentre.
+
+*Canvas pixel art · WebRTC · deterministic lockstep netcode · Web Audio API · no images, no audio files, no dependencies*
+
+[![Santino Santini's Kick Off](https://raw.githubusercontent.com/Santein/Santino-Santinis-Kick-Off/main/docs/title.gif)](https://santein.github.io/Santino-Santinis-Kick-Off/)
 
 ### 📺 [Night Index: The Quiet Forecast →](https://santein.github.io/night-index/)
 
